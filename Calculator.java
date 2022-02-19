@@ -41,6 +41,6 @@ public class Calculator {
 
 	@Override
 	public String toString() {
-		return "Current result: " + result;
+		return "\nCurrent result: " + result;
 	}
 }
